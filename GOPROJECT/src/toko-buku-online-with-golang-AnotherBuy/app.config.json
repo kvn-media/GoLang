@@ -1,0 +1,11 @@
+{
+    "database" : {
+        "DB_USER": "root",
+        "DB_PASS": "",
+        "DB_HOST": "localhost",
+        "DB_PORT": 3306,
+        "DB_NAME": "vica_book_store",
+        "DB_LOC": "Asia/Jakarta"
+        
+    }
+}
